@@ -1,0 +1,19 @@
+{
+  "name": "crowdsource",
+  "version": "1.0.0",
+  "description": "random code snippets",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahilRS200/crowdsource.git"
+  },
+  "author": "Sahil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SahilRS200/crowdsource/issues"
+  },
+  "homepage": "https://github.com/SahilRS200/crowdsource#readme"
+}
